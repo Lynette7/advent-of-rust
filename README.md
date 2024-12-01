@@ -6,4 +6,4 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 
 ## Features of each day
 
-- day_1: variable ownership and cloning
+- day-: variable ownership and cloning
