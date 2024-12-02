@@ -7,3 +7,4 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 ## Features of each day
 
 - day-1: variable ownership and cloning
+- day-2: borrowing and references
