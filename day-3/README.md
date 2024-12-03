@@ -32,8 +32,8 @@ Help the elves re-write the is_nice function in Rust. Santa needs the Nice list 
 
 The is_nice function accepts two arguments:
 
-good_deeds: u32: The number of good deeds a kid has done.
-bad_deeds: u32: The number of bad deeds a kid has done.
+- good_deeds: u32: The number of good deeds a kid has done.
+- bad_deeds: u32: The number of bad deeds a kid has done.
 
 ## Calculating the ratio
 
@@ -46,11 +46,12 @@ ratio = good_deeds / (good_deeds + bad_deeds)
 Bad deeds are weighted more heavily than good deeds (twice as much). So, the final ratio is calculated as:
 
 ratio = good_deeds / (good_deeds + (2 * bad_deeds))
+
 After you find the ratio, you'll need to check if the kid is nice. A kid is considered nice if the ratio is greater than or equal to 0.75, if nice return true, otherwise return false.
 
 Santa’s counting on you. Save Christmas and keep the Nice list free of data breaches — and, hopefully, Santa himself.
 
 ## Requirements
 
-If both good_deeds and bad_deeds are 0, the kid is naughty by default.
-The function should return a bool value.
+- If both good_deeds and bad_deeds are 0, the kid is naughty by default.
+- The function should return a bool value.
