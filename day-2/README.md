@@ -24,3 +24,7 @@ Can you help them fix the code?
 
 Update the attach_message_to_present function to accept a reference to a String or a string slice str instead of an owned String.
 Update the main function to pass a reference to the gift_message string instead of cloning it.
+
+## My notes
+
+<https://mothermatician.notion.site/Cloning-vs-Borrowing-1502e5a6448080d08b76e66cc0151d11>
