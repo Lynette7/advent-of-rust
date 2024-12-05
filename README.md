@@ -9,3 +9,4 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 - day-1: variable ownership and cloning
 - day-2: borrowing and references
 - day-3: floating-point precision and safe arithmetic in numerical computations
+- day-4:
