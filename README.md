@@ -11,3 +11,4 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 - day-3: floating-point precision and safe arithmetic in numerical computations
 - day-4: implement new structs
 - day-5: parsing raw strings into structs
+- day-6: lifetimes and ownership
