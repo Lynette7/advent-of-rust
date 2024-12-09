@@ -7,7 +7,7 @@ impl<'a> LogQuery<'a> {
         LogQuery { logs }
     }
 
-    pub fn search(&self, keyword: &str) -> Vec<String> {
+    pub fn search(&self, keyword: &str) -> Vec<&'a String> {
         self.logs.iter().filter(|log| log.contains(keyword)).collect()
     }
 }
