@@ -12,5 +12,6 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 - day-4: implement new structs
 - day-5: parsing raw strings into structs
 - day-6: lifetimes and ownership
-- Day 7: Implementing structs with associated functions and methods
-- Day 8: File I/O operations and error handling
+- day-7: implementing structs with associated functions and methods
+- day-8: file I/O operations and error handling
+- day-9: implementing the `From<T>` trait
