@@ -15,3 +15,4 @@ Advent of Rust is just like Advent of Code, but with a focus on Rust, we'll focu
 - day-7: implementing structs with associated functions and methods
 - day-8: file I/O operations and error handling
 - day-9: implementing the `From<T>` trait
+- day-10: dereferencing structs
