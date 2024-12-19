@@ -1,6 +1,6 @@
 # Day 12: Fixing Santa's Navigator
 
-Santa was livid. His face was redder than Rudolph’s nose after a Red Bull binge. The elves had tried the sleigh's navigation system again, running the find_best_location function. Instead of landing them in a cozy, gift-ready location, the sleigh had whisked them right back to the North Pole.
+Santa was livid. His face was redder than Rudolph’s nose after a Red Bull binge. The elves had tried the sleigh's navigation system again, running the `find_best_location` function. Instead of landing them in a cozy, gift-ready location, the sleigh had whisked them right back to the North Pole.
 
 “I told you to land in the best spot, not bring me back to this frosty hellhole!” Santa bellowed. His voice echoed across the frozen tundra, sending a nearby snowman into early retirement.
 
